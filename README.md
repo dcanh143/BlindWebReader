@@ -4,6 +4,6 @@ Android App that provides a website reader for the visually impaired.
 
 ![alt screenshot](https://raw.githubusercontent.com/lrusso/BlindWebReader/main/BlindWebReader.png)
 
-## Play Store:
+## Link Video Demo
 
-https://play.google.com/store/apps/details?id=ar.com.lrusso.blindwebreader
+[My Demo](https://drive.google.com/drive/folders/1x1RZ1Al68e4-0kYhDEX4ewbHBlUJNsLN?usp=drive_link)
