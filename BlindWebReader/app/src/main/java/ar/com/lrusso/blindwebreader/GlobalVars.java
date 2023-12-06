@@ -58,37 +58,9 @@ public class GlobalVars extends Application
 	//GLOBAL FUNCTIONS REQUIRED BY ACTIVITIES
 	public static String getLanguage()
 		{
-		if (Locale.getDefault().getLanguage().startsWith("es"))
+		if (Locale.getDefault().getLanguage().startsWith("vi"))
 			{
-			return "es"; //TO WORK IN SPANISH
-			}
-		else if (Locale.getDefault().getLanguage().startsWith("pt"))
-			{
-			return "pt"; //TO WORK IN PORTUGUESE
-			}
-		else if (Locale.getDefault().getLanguage().startsWith("it"))
-			{
-			return "it"; //TO WORK IN ITALIAN
-			}
-		else if (Locale.getDefault().getLanguage().startsWith("fr"))
-			{
-			return "fr"; //TO WORK IN FRENCH
-			}
-		else if (Locale.getDefault().getLanguage().startsWith("de"))
-			{
-			return "de"; //TO WORK IN DEUTSCH
-			}
-		else if (Locale.getDefault().getLanguage().startsWith("ru"))
-			{
-			return "ru"; //TO WORK IN RUSSIAN
-			}
-		else if (Locale.getDefault().getLanguage().startsWith("id"))
-			{
-			return "id"; //TO WORK IN INDONESIAN
-			}
-		else if (Locale.getDefault().getLanguage().startsWith("in"))
-			{
-			return "in"; //TO WORK IN INDONESIAN
+			return "vi"; //TO WORK IN VIETNAMESE
 			}
 		else
 			{
