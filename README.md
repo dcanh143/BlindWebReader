@@ -6,4 +6,4 @@ Android App that provides a website reader for the visually impaired.
 
 ## Link Video Demo
 
-[Demo của tôi](https://drive.google.com/drive/folders/1x1RZ1Al68e4-0kYhDEX4ewbHBlUJNsLN?usp=drive_link)
+[My Demo](https://drive.google.com/drive/folders/1x1RZ1Al68e4-0kYhDEX4ewbHBlUJNsLN?usp=drive_link)
